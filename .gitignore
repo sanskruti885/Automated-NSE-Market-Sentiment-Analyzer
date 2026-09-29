@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+scraper.log
+scraper-error.log

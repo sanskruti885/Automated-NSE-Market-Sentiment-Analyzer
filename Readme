@@ -1,0 +1,4 @@
+-------------------COMMANDS--------------------------
+npm install axios node-cron
+npm install --save-dev @types/node
+npm install -D ts-node typescript
